@@ -1,23 +1,30 @@
 ---
-title: Bloom Box
+title: Ecommerce
 publishDate: 2019-12-01 00:00:00
 img: /assets/stock-2.jpg
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: image
+
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Introducing an extraordinary e-commerce destination that caters to all fashion enthusiasts, offering a diverse collection for men, women, kids, and a wide range of accessories. Created with the cutting-edge technologies of Redux, React, and Strapi, this fashion-forward website sets a new standard in online shopping.
+github: https://github.com/DraGSsine/Ecommerce
+demo: https://ecommerce-dragssine.vercel.app
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - Redux
+  - React
+  - Strapi
+  - Sass
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Introducing an extraordinary e-commerce destination that caters to all fashion enthusiasts, offering a diverse collection for men, women, kids, and a wide range of accessories. Created with the cutting-edge technologies of Redux, React, and Strapi, this fashion-forward website sets a new standard in online shopping.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Immerse yourself in a visually stunning and user-friendly interface, where Redux's lightning-fast state management ensures an effortless browsing experience across various categories. Discover the latest trends, timeless classics, and unique pieces, all thoughtfully curated for fashion-forward individuals of all ages.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+React's seamless integration brings the pages to life, delivering an interactive and dynamic journey through the world of fashion. Each component, meticulously designed and optimized, guarantees a smooth navigation experience, allowing you to explore our vast collection with ease and style.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Behind the scenes, Strapi empowers our team to effortlessly manage the ever-evolving inventory of clothing and accessories. The headless CMS architecture ensures that every product listing is up-to-date and meticulously organized, making it a breeze for our customers to find exactly what they're looking for.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+From trendy apparel for men and women to adorable outfits for kids, our e-commerce website offers a wide selection that caters to every fashion taste and preference. Explore stylish clothing, footwear, and accessories for any occasion, and effortlessly refine your search to find the perfect pieces to enhance your personal style.
+
+With secure and streamlined checkout processes, your shopping experience is safe, convenient, and hassle-free. Multiple payment gateways provide flexibility, while our comprehensive order tracking system keeps you updated on the progress of your purchase, ensuring peace of mind from start to finish.
+
+Experience the perfect fusion of Redux, React, and Strapi in our fashion-forward e-commerce website. Discover the future of online fashion shopping, where style meets technology, and indulge in an unparalleled shopping experience for men, women, kids, and a vast array of accessories. Explore our portfolio today and witness the transformation of the fashion industry through our innovative platform.
