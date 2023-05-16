@@ -5,8 +5,8 @@ img: /assets/stock-1.jpg
 img_alt: image
 description: |
  a chat website designed to revolutionize your online communication experience
-github: https://github.com/DraGSsine/Ecommerce
-demo: https://ecommerce-dragssine.vercel.app
+github: https://github.com/DraGSsine/GoChaty
+demo: https://gochaty.vercel.app/
 tags:
   - Firebase
   - Nextjs
