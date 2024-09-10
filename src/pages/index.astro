@@ -1,10 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 
-// Layout import — provides basic page elements: <head>, <nav>, <footer> etc.
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-// Component Imports
 import CallToAction from '../components/CallToAction.astro';
 import Grid from '../components/Grid.astro';
 import Hero from '../components/Hero.astro';
@@ -21,8 +19,7 @@ const projects = (await getCollection('work'))
 	.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
 	.slice(0, 4);
 
-// Full Astro Component Syntax:
-// https://docs.astro.build/core-concepts/astro-components/
+
 ---
 
 <BaseLayout>
@@ -31,7 +28,7 @@ const projects = (await getCollection('work'))
 			<header class="hero">
 				<Hero
 					title="Hello, my name is Yassine Ouchen"
-					tagline="A Programer Who Judges a book by its cover."
+					tagline="Passionate Software Engineer, Web Developer, and 1337 Coding School Student"
 					align="start"
 				>
 					<div class="roles">
