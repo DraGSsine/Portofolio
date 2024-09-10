@@ -7,13 +7,7 @@ img_alt: image
 
 description: |
     Developed a file organization system designed to
-    streamline the management of messy files. The system
-    allows users to upload multiple files, such as "untitled.pdf,"
-    and leverages the Mistral API to process these files and
-    identify their main topics. Based on the identified topic, the
-    system renames the files accordingly (e.g.,
-    "datascience.pdf") and organizes them into appropriate
-    folders (e.g., "Programming")
+    streamline the management of messy files.
 github: https://github.com/DraGSsine/doctify
 demo: https://github.com/DraGSsine/doctify
 tags:
